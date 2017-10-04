@@ -8,7 +8,6 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/math"
 
 	"github.com/GRinvest/open-ethereum-pool/rpc"
 	"github.com/GRinvest/open-ethereum-pool/storage"
